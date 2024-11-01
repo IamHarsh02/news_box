@@ -17,6 +17,10 @@ Stay informed on the go with **News Box**, an innovative news app crafted using 
 
 Download News Box today to experience an up-to-date, on-demand news app built for the modern reader!
 
+<img width="788" alt="new_box" src="https://github.com/user-attachments/assets/798efe70-cb32-4399-b107-2b4191302249">
+
+
+
 
 https://github.com/user-attachments/assets/14b9b73a-7d8d-4199-8524-e23768329861
 
